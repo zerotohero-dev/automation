@@ -1,0 +1,25 @@
+{
+  "name": "jsbites-automation",
+  "version": "0.0.1",
+  "description": "JSBites Automation Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbites/automation.git"
+  },
+  "keywords": [
+    "automation",
+    "demo",
+    "buddy.works",
+    "ci/cd"
+  ],
+  "author": "Volkan Ozcelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/automation/issues"
+  },
+  "homepage": "https://github.com/jsbites/automation#readme"
+}
