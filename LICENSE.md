@@ -5,7 +5,7 @@
 |_||_|\__/  |_| \__/|_| |_|_||_||_| |_|\__/|_|\__| 
 ```
 
-The MIT License (MIT)
+## The MIT License (*MIT*)
 
 Copyright © [Volkan Özçelik](me@volkan.io) and contributors.
 
