@@ -7,9 +7,7 @@
 
 ## Summary
 
-Introduction to CI/CD and Automation Using Buddyworks.
-
-TODO: add a summary.
+Introduction to CI/CD and Automation using [Buddy](https://buddy.works).
 
 ## Usage Example
 
