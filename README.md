@@ -9,9 +9,9 @@
 
 Introduction to CI/CD and Automation using [Buddy](https://buddy.works).
 
-## Usage Example
+This is a demo repository, that I used when I created a screencast about automation.
 
-TODO: add a usage example.
+Not much to see here **:(**.
 
 ## About This Repository
 
