@@ -15,7 +15,7 @@ Not much to see here **:(**.
 
 ## About This Repository
 
-This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast].
+This repository is a part of [Byte-Sized JavaScript Monthly VideoCast][vidcast].
 
 ```
   _               __
@@ -36,17 +36,17 @@ It is a compilation of short (*more or less five minutes long*) bi-weekly screen
 ## Contact Information
 
 * **Project Owner**: [Volkan Özçelik](mailto:me@volkan.io)
-* **Project Website**: <https://volkan.io>
+* **Project Website**: [bytesized.tv](https://bytesized.tv/)
 
 ## License
 
-MIT-licensed. — See [the license file](LICENSE.md) for details.
+MIT-licensed. — [See the license file for details](LICENSE.md).
 
 ## Code of Conduct
 
 We, as the community behind this project, are committed to making participation in this project a harassment-free experience for everyone, regardless of the level of expertise, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion or nationality.
 
-[See the code of conduct](CODE_OF_CONDUCT.md) for more details.
+[See the code of conduct for more details](CODE_OF_CONDUCT.md).
 
-[vidcast]: https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA
-[ticket]: https://github.com/jsbites/babil/issues/new
+[vidcast]: https://bytesized.tv/
+[ticket]: https://github.com/jsbites/automation/issues/new
