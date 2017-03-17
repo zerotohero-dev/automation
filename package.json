@@ -1,6 +1,6 @@
 {
   "name": "jsbites-automation",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "JSBites Automation Demo",
   "main": "index.js",
   "scripts": {
