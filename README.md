@@ -7,9 +7,13 @@
 
 Introduction to CI/CD and Automation using [Buddy](https://buddy.works).
 
+This is a demo repository, that I used when I created a screencast about automation.
+
+Not much to see here **:(**.
+
 ## About This Repository
 
-This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
+This repository is a part of [Byte-Sized JavaScript Monthly VideoCast][vidcast].
 
 ```
   _               __
@@ -43,18 +47,18 @@ There’s not much reusable stuff here at the moment **:(**.
 
 ## Contact Information
 
-* **Project Maintainer**: [Volkan Özçelik](https://volkan.io/)
-* **Project Website**: <https://bytesized.tv>
+* **Project Owner**: [Volkan Özçelik](mailto:me@volkan.io)
+* **Project Website**: [bytesized.tv](https://bytesized.tv/)
 
 ## License
 
-MIT-licensed. — See [the license file](LICENSE.md) for details.
+MIT-licensed. — [See the license file for details](LICENSE.md).
 
 ## Code of Conduct
 
 We are committed to making participation in this project a harassment-free experience for everyone, regardless of the level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
-[See the code of conduct for details](CODE_OF_CONDUCT.md).
+[See the code of conduct for more details](CODE_OF_CONDUCT.md).
 
-[vidcast]: https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA
+[vidcast]: https://bytesized.tv/
 [ticket]: https://github.com/jsbites/automation/issues/new
