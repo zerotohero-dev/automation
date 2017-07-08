@@ -1,6 +1,6 @@
 {
   "name": "jsbites-automation",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "JSBites Automation Demo",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,26 @@
   "repository": "git+https://github.com/jsbites/automation.git",
   "keywords": [
     "automation",
-    "demo",
     "buddy.works",
-    "ci/cd"
+    "byte-sized javascript",
+    "byte-sized",
+    "bytesized.tv",
+    "ci/cd",
+    "demos",
+    "education",
+    "javascript",
+    "learning",
+    "podcast",
+    "screencast",
+    "tutorials",
+    "vidcast",
+    "videocast",
+    "videos"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsbites/automation/issues"
   },
-  "homepage": "https://github.com/jsbites/automation#readme"
+  "homepage": "https://bytesized.tv/"
 }

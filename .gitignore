@@ -49,3 +49,5 @@ node_modules
 # IDE-specific:
 .idea
 .c9
+.history
+.vscode
