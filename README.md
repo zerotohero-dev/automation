@@ -11,28 +11,6 @@ This is a demo repository, that I used when I created a screencast about automat
 
 Not much to see here **:(**.
 
-## About This Repository
-
-This repository is a part of [Byte-Sized JavaScript Monthly VideoCast][vidcast].
-
-```
-  _               __
- |_)   _|_  _ __ (_  o _   _   _|
- |_) \/ |_ (/_   __) | /_ (/__(_|
-     /        |  _.     _. (_   _ ._ o ._ _|_
-            \_| (_| \/ (_| __) (_ |  | |_) |_
-                                       |
-            »»  bytesized.tv  ««
-```
-
-## Byte-Sized What?!
-
-[Byte-Sized JavaScript][vidcast].
-
-It is a compilation of short (*around ten minutes*) monthly screencasts about **JavaScript** and related technologies.
-
-[vidcast]: https://bytesized.tv/ "ByteSized.TV"
-
 ## Installation
 
 Nothing to install here.
@@ -62,3 +40,14 @@ We are committed to making participation in this project a harassment-free exper
 
 [vidcast]: https://bytesized.tv/
 [ticket]: https://github.com/jsbites/automation/issues/new
+
+## A [ByteSized.TV][vidcast] Project
+
+This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
+
+It is a compilation of short (*around ten minutes*) screencasts about **JavaScript** and related technologies.
+
+[**Learn**, **explore**, and **have fun**][vidcast]!
+
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"
+
